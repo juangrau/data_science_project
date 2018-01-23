@@ -1,0 +1,1664 @@
+Country,City
+ae,abu dhabi
+Country,City
+ae,abu dhabi
+ae,dubai
+ae,sharjah
+af,herat
+af,jalalabad
+af,kabul
+af,qandahar
+al,tirana
+am,yerevan
+ao,huambo
+ao,lobito
+ao,luanda
+ar,bahia blanca
+ar,catamarca
+ar,cordoba
+ar,corrientes
+ar,formosa
+ar,jujuy
+ar,la plata
+ar,mar del plata
+ar,mendoza
+ar,neuquen
+ar,parana
+ar,posadas
+ar,resistencia
+ar,rosario
+ar,salta
+ar,san juan
+ar,santa fe
+ar,santiago del estero
+ar,tucuman
+at,graz
+at,vienna
+au,adelaide
+au,brisbane
+au,canberra
+au,gold coast
+au,hobart
+au,melbourne
+au,newcastle
+au,perth
+au,sydney
+au,wollongong
+az,baku
+ba,banja luka
+ba,sarajevo
+bd,barisal
+bd,dhaka
+bd,dinajpur
+bd,khulna
+bd,narayanganj
+bd,narsingdi
+bd,rajshahi
+bd,rangpur
+bd,tungi
+be,antwerp
+be,brussels
+be,charleroi
+be,gent
+bf,bobo dioulasso
+bf,ouagadougou
+bg,plovdiv
+bg,sofia
+bg,varna
+bi,bujumbura
+bj,abomey-calavi
+bj,cotonou
+bj,djougou
+bo,cochabamba
+bo,la paz
+bo,oruro
+bo,sucre
+br,ananindeua
+br,anapolis
+br,aracaju
+br,barueri
+br,bauru
+br,belem
+br,belford roxo
+br,belo horizonte
+br,betim
+br,blumenau
+br,boa vista
+br,brasilia
+br,campina grande
+br,campinas
+br,campo grande
+br,campos
+br,canoas
+br,carapicuiba
+br,cariacica
+br,caruaru
+br,cascavel
+br,caucaia
+br,caxias do sul
+br,colombo
+br,contagem
+br,cuiaba
+br,curitiba
+br,diadema
+br,duque de caxias
+br,embu
+br,feira de santana
+br,florianopolis
+br,fortaleza
+br,foz do iguacu
+br,franca
+br,goiania
+br,governador valadares
+br,gravatai
+br,guaruja
+br,guarulhos
+br,hortolandia
+br,imperatriz
+br,ipatinga
+br,itabuna
+br,itapevi
+br,itaquaquecetuba
+br,jaboatao
+br,jacarei
+br,joao pessoa
+br,joinville
+br,juazeiro do norte
+br,juiz de fora
+br,jundiai
+br,limeira
+br,londrina
+br,macapa
+br,maceio
+br,mage
+br,manaus
+br,marilia
+br,maringa
+br,maua
+br,moji das cruzes
+br,montes claros
+br,mossoro
+br,natal
+br,niteroi
+br,nova iguacu
+br,novo hamburgo
+br,olinda
+br,osasco
+br,paulista
+br,pelotas
+br,petropolis
+br,piracicaba
+br,ponta grossa
+br,porto alegre
+br,porto velho
+br,praia grande
+br,presidente prudente
+br,recife
+br,ribeirao das neves
+br,ribeirao preto
+br,rio branco
+br,rio de janeiro
+br,salvador
+br,santa luzia
+br,santa maria
+br,santo andre
+br,santos
+br,sao bernardo do campo
+br,sao carlos
+br,sao goncalo
+br,sao joao de meriti
+br,sao jose do rio preto
+br,sao jose dos campos
+br,sao jose dos pinhais
+br,sao jose
+br,sao leopoldo
+br,sao luis
+br,sao paulo
+br,sao vicente
+br,serra
+br,sete lagoas
+br,sorocaba
+br,sumare
+br,suzano
+br,taboao da serra
+br,taubate
+br,teresina
+br,uberaba
+br,uberlandia
+br,varzea grande
+br,viamao
+br,vila velha
+br,vitoria da conquista
+br,vitoria
+br,volta redonda
+bs,nassau
+bw,gaborone
+by,brest
+by,gomel
+by,hrodna
+by,minsk
+ca,calgary
+ca,edmonton
+ca,halifax
+ca,hamilton
+ca,kitchener
+ca,london
+ca,montreal
+ca,oshawa
+ca,ottawa
+ca,quebec
+ca,toronto
+ca,vancouver
+ca,victoria
+ca,windsor
+ca,winnipeg
+cd,boma
+cd,bukavu
+cd,kananga
+cd,kinshasa
+cd,kisangani
+cd,likasi
+cd,lubumbashi
+cd,mbuji-mayi
+cd,tshikapa
+cf,bangui
+cg,brazzaville
+ch,zurich
+ci,abidjan
+ci,bouake
+ci,daloa
+ci,yamoussoukro
+cl,antofagasta
+cl,concepcion
+cl,iquique
+cl,rancagua
+cl,san bernardo
+cl,santiago
+cl,talcahuano
+cl,temuco
+cl,valparaiso
+cl,vina del mar
+cm,bafoussam
+cm,bamenda
+cm,bertoua
+cm,douala
+cm,edea
+cm,garoua
+cm,kousseri
+cm,maroua
+cm,mokolo
+cm,ngaoundere
+cm,yaounde
+cn,aksu
+cn,anqing
+cn,anshan
+cn,anshun
+cn,anyang
+cn,baicheng
+cn,baoding
+cn,baoji
+cn,beihai
+cn,bengbu
+cn,benxi
+cn,cangzhou
+cn,changchun
+cn,changde
+cn,changzhou
+cn,chaoyang
+cn,chaozhou
+cn,chengde
+cn,chengdu
+cn,chifeng
+cn,chongqing
+cn,chuzhou
+cn,dalian
+cn,daliang
+cn,dandong
+cn,datong
+cn,dezhou
+cn,dongying
+cn,foshan
+cn,fushun
+cn,fuxin
+cn,fuzhou
+cn,ganzhou
+cn,guangyuan
+cn,guangzhou
+cn,guilin
+cn,guiyang
+cn,haibowan
+cn,haikou
+cn,hailar
+cn,handan
+cn,hangu
+cn,hangzhou
+cn,harbin
+cn,hebi
+cn,hefei
+cn,hegang
+cn,hengshui
+cn,hengyang
+cn,heze
+cn,hohhot
+cn,huaibei
+cn,huainan
+cn,huaiyin
+cn,huizhou
+cn,hulan ergi
+cn,jiamusi
+cn,jiangmen
+cn,jiaojiang
+cn,jiaozuo
+cn,jiaxing
+cn,jilin
+cn,jinan
+cn,jingdezhen
+cn,jining
+cn,jining
+cn,jinxi
+cn,jinzhou
+cn,jiujiang
+cn,jixi
+cn,kaifeng
+cn,kashi
+cn,kunming
+cn,langfang
+cn,lanzhou
+cn,laohekou
+cn,liaocheng
+cn,liaoyang
+cn,linfen
+cn,linxia
+cn,liuzhou
+cn,luancheng
+cn,luohe
+cn,luoyang
+cn,luqiao
+cn,luzhou
+cn,maanshan
+cn,maoming
+cn,mianyang
+cn,mudanjiang
+cn,nanchang
+cn,nanchong
+cn,nanjing
+cn,nanning
+cn,nantong
+cn,nanyang
+cn,neijiang
+cn,ningbo
+cn,panzhihua
+cn,peking
+cn,pingdingshan
+cn,pingxiang
+cn,puyang
+cn,qingdao
+cn,qinhuangdao
+cn,qiqihar
+cn,qitaihe
+cn,ranghulu
+cn,rizhao
+cn,rongcheng
+cn,sanmenxia
+cn,sanming
+cn,shanghai
+cn,shangrao
+cn,shaoguan
+cn,shaoxing
+cn,shaoyang
+cn,shashi
+cn,shenyang
+cn,shenzhen
+cn,shihezi
+cn,shiyan
+cn,shuangyashan
+cn,suihua
+cn,suzhou
+cn,suzhou
+cn,taian
+cn,taiyuan
+cn,taizhou
+cn,tanggu
+cn,tangshan
+cn,tianjin
+cn,tianmen
+cn,tieling
+cn,tongchuan
+cn,tongliao
+cn,tongling
+cn,urumqi
+cn,weifang
+cn,wenzhou
+cn,wuhan
+cn,wuhu
+cn,wuxi
+cn,wuxue
+cn,wuzhou
+cn,xiamen
+cn,xiangfan
+cn,xiantao
+cn,xian
+cn,xianyang
+cn,xingtai
+cn,xining
+cn,xinpu
+cn,xintai
+cn,xinxiang
+cn,xinyang
+cn,xuanhua
+cn,xuchang
+cn,xuzhou
+cn,yancheng
+cn,yangjiang
+cn,yangzhou
+cn,yanji
+cn,yantai
+cn,yibin
+cn,yichang
+cn,yinchuan
+cn,yingcheng
+cn,yingkou
+cn,yining
+cn,yiyang
+cn,yuci
+cn,yueyang
+cn,yuncheng
+cn,zhangdian
+cn,zhangjiakou
+cn,zhangzhou
+cn,zhanjiang
+cn,zhaoqing
+cn,zhenjiang
+cn,zhongshan
+cn,zhoukou
+cn,zhuhai
+cn,zhumadian
+cn,zhuzhou
+cn,zigong
+cn,zunyi
+co,armenia
+co,barranquilla
+co,bello
+co,bogota
+co,bucaramanga
+co,buenaventura
+co,cali
+co,cartagena
+co,cucuta
+co,floridablanca
+co,ibague
+co,itagui
+co,manizales
+co,medellin
+co,monteria
+co,neiva
+co,palmira
+co,pasto
+co,pereira
+co,santa marta
+co,sincelejo
+co,soacha
+co,soledad
+co,valledupar
+co,villavicencio
+cr,san jose
+cu,camaguey
+cu,guantanamo
+cu,holguin
+cu,las tunas
+cu,santa clara
+cu,santiago de cuba
+cz,brno
+cz,ostrava
+cz,prague
+de,aachen
+de,augsburg
+de,berlin
+de,bielefeld
+de,bochum
+de,bonn
+de,bremen
+de,brunswick
+de,chemnitz
+de,cologne
+de,dortmund
+de,dresden
+de,duisburg
+de,dusseldorf
+de,essen
+de,frankfurt
+de,freiburg
+de,gelsenkirchen
+de,halle
+de,hamburg
+de,hanover
+de,karlsruhe
+de,kiel
+de,krefeld
+de,leipzig
+de,lubeck
+de,magdeburg
+de,mannheim
+de,monchengladbach
+de,munich
+de,munster
+de,nuremberg
+de,oberhausen
+de,stuttgart
+de,wiesbaden
+de,wuppertal
+dj,jibuti
+dk,arhus
+dk,copenhagen
+do,la romana
+do,san pedro de macoris
+do,santiago
+do,santo domingo
+dz,algiers
+dz,constantine
+dz,wahran
+ec,cuenca
+ec,guayaquil
+ec,quito
+ec,santo domingo
+ee,tallinn
+eg,alexandria
+eg,aswan
+eg,asyut
+eg,cairo
+eg,el faiyum
+eg,el mahalla el kubra
+eg,gizeh
+eg,ismailia
+eg,luxor
+eg,port said
+eg,qena
+eg,sohag
+eg,suez
+eg,tanta
+er,asmara
+es,a coruna
+es,badalona
+es,barcelona
+es,bilbao
+es,cartagena
+es,cordoba
+es,fuenlabrada
+es,gijon
+es,granada
+es,las palmas
+es,madrid
+es,malaga
+es,mostoles
+es,murcia
+es,palma
+es,sevilla
+es,valencia
+es,valladolid
+es,vigo
+es,vitoria
+es,zaragoza
+et,addis abeba
+et,dire dawa
+et,nazret
+fi,espoo
+fi,helsinki
+fi,tampere
+fr,bordeaux
+fr,lyon
+fr,marseille
+fr,montpellier
+fr,nantes
+fr,nice
+fr,paris
+fr,rennes
+fr,strasbourg
+fr,toulouse
+ga,libreville
+gb,belfast
+gb,birmingham
+gb,bradford
+gb,bristol
+gb,cardiff
+gb,coventry
+gb,derby
+gb,edinburgh
+gb,glasgow
+gb,kingston upon hull
+gb,leeds
+gb,leicester
+gb,leicester
+gb,liverpool
+gb,london
+gb,manchester
+gb,nottingham
+gb,plymouth
+gb,reading
+gb,sheffield
+gb,southampton
+gb,stoke-on-trent
+gb,wolverhampton
+ge,tbilisi
+gh,accra
+gh,kumasi
+gh,tamale
+gh,tema
+gm,serekunda
+gn,conakry
+gr,athens
+gr,thessaloniki
+gt,guatemala city
+gt,guatemala
+gt,mixco
+gt,villa nueva
+gw,bissau
+gy,georgetown
+hn,san pedro sula
+hn,tegucigalpa
+hr,zagreb
+ht,carrefour
+ht,delmas
+ht,port-au-prince
+hu,budapest
+hu,debrecen
+id,ambon
+id,balikpapan
+id,banda aceh
+id,bandung
+id,banjarmasin
+id,bekasi
+id,bengkulu
+id,binjai
+id,bogor
+id,ciampea
+id,cibadak
+id,cilegon
+id,cileungsi
+id,cimahi
+id,ciputat
+id,cirebon
+id,denpasar
+id,depok
+id,jakarta
+id,jambi
+id,jember
+id,kediri
+id,kendari
+id,kupang
+id,loa janan
+id,majalaya
+id,makasar
+id,malang
+id,manado
+id,mataram
+id,medan
+id,pacet
+id,padang
+id,palembang
+id,palu
+id,pekalongan
+id,pontianak
+id,purwakarta
+id,purwokerto
+id,rengasdengklok
+id,samarinda
+id,semarang
+id,sukabumi
+id,sumedang
+id,surabaya
+id,surakarta
+id,tambun
+id,tangerang
+id,tasikmalaya
+id,tegal
+id,yogyakarta
+ie,dublin
+il,ashdod
+il,ashdod
+il,haifa
+il,jerusalem
+il,tel aviv-yafo
+in,agartala
+in,agra
+in,ahmadabad
+in,ahmadnagar
+in,aizawl
+in,ajmer
+in,akola
+in,aligarh
+in,allahabad
+in,alwar
+in,ambarnath
+in,ambattur
+in,amravati
+in,amritsar
+in,anantapur
+in,ara
+in,asansol
+in,aurangabad
+in,avadi
+in,bally
+in,bangalore
+in,baranagar
+in,barasat
+in,barddhaman
+in,bareli
+in,belgaum
+in,bellary
+in,bhagalpur
+in,bharatpur
+in,bhatpara
+in,bhavnagar
+in,bhilai
+in,bhilwara
+in,bhiwandi
+in,bhopal
+in,bhubaneswar
+in,bidar
+in,bihar
+in,bijapur
+in,bikaner
+in,bilaspur
+in,bokaro
+in,bombay
+in,brahmapur
+in,burhanpur
+in,calcutta
+in,chandigarh
+in,chandrapur
+in,darbhanga
+in,dehra dun
+in,delhi
+in,dewas
+in,dhanbad
+in,dhule
+in,dindigul
+in,durgapur
+in,durg
+in,etawah
+in,faridabad
+in,farrukhabad
+in,firozabad
+in,gandhinagar
+in,ganganagar
+in,gaya
+in,ghaziabad
+in,gorakhpur
+in,gulbarga
+in,guntur
+in,guwahati
+in,gwalior
+in,haldia
+in,haora
+in,hapur
+in,hisar
+in,hubli
+in,hyderabad
+in,ichalkaranji
+in,imphal
+in,indore
+in,jabalpur
+in,jaipur
+in,jalandhar
+in,jalna
+in,jammu
+in,jamnagar
+in,jamshedpur
+in,jhansi
+in,jodhpur
+in,kakinada
+in,kalyan
+in,kamarhati
+in,kanpur
+in,karimnagar
+in,karnal
+in,kharagpur
+in,kochi
+in,kolhapur
+in,kollam
+in,korba
+in,kota
+in,kulti
+in,lakhnau
+in,latur
+in,ludhiana
+in,madras
+in,madurai
+in,maisuru
+in,malegaon
+in,mangaluru
+in,mathura
+in,mau
+in,mirzapur
+in,moradabad
+in,munger
+in,muzaffarnagar
+in,muzaffarpur
+in,nadiad
+in,nagercoil
+in,nagpur
+in,naihati
+in,nanded
+in,new delhi
+in,nizamabad
+in,pali
+in,panihati
+in,panipat
+in,parbhani
+in,patiala
+in,patna
+in,pimpri
+in,pondicherry
+in,pune
+in,raichur
+in,raipur
+in,rajamahendri
+in,rajkot
+in,rajpur
+in,rampur
+in,ranchi
+in,ratlam
+in,raurkela
+in,rewa
+in,rohtak
+in,sagar
+in,saharanpur
+in,satna
+in,selam
+in,shahjahanpur
+in,shiliguri
+in,shimoga
+in,sholapur
+in,shrirampur
+in,sonipat
+in,srinagar
+in,surat
+in,thana
+in,thanjavur
+in,thiruvananthapuram
+in,thrissur
+in,tiruchchirappalli
+in,tirunelveli
+in,tirupati
+in,tiruppur
+in,tiruvottiyur
+in,tumkur
+in,ujjain
+in,ulhasnagar
+in,ulubaria
+in,vadodara
+in,varanasi
+in,vijayawada
+in,visakhapatnam
+in,warangal
+in,yamunanagar
+iq,baghdad
+iq,irbil
+iq,kirkuk
+ir,abadan
+ir,ahvaz
+ir,arak
+ir,ardabil
+ir,babol
+ir,borujerd
+ir,bukan
+ir,dezful
+ir,esfahan
+ir,eslamshahr
+ir,gorgan
+ir,hamadan
+ir,karaj
+ir,kashan
+ir,kerman
+ir,kermanshah
+ir,khomeynishahr
+ir,khorramabad
+ir,khorramshahr
+ir,mashhad
+ir,neyshabur
+ir,orumiyeh
+ir,qarchak
+ir,qazvin
+ir,qom
+ir,rasht
+ir,sabzevar
+ir,sanandaj
+ir,sari
+ir,shiraz
+ir,sirjan
+ir,tabriz
+ir,yazd
+ir,zanjan
+it,bari
+it,bologna
+it,catania
+it,florence
+it,genoa
+it,messina
+it,milan
+it,naples
+it,padova
+it,palermo
+it,rome
+it,trieste
+it,turin
+it,venice
+it,verona
+jm,kingston
+jo,irbid
+jp,ageo
+jp,akashi
+jp,akita
+jp,amagasaki
+jp,asahikawa
+jp,atsugi
+jp,chigasaki
+jp,chofu
+jp,fuchu
+jp,fuji
+jp,fujisawa
+jp,fukuyama
+jp,funabashi
+jp,hachinohe
+jp,hachioji
+jp,hakodate
+jp,hamamatsu
+jp,himeji
+jp,hirakata
+jp,hiratsuka
+jp,hiroshima
+jp,ibaraki
+jp,ichihara
+jp,ichikawa
+jp,ichinomiya
+jp,iwaki
+jp,kakogawa
+jp,kashiwa
+jp,kasugai
+jp,kasukabe
+jp,kawagoe
+jp,kawaguchi
+jp,kawasaki
+jp,kishiwada
+jp,kitakyushu
+jp,kobe
+jp,koriyama
+jp,koshigaya
+jp,kurashiki
+jp,kurume
+jp,machida
+jp,matsudo
+jp,matsumoto
+jp,nagoya
+jp,neyagawa
+jp,niigata
+jp,nishinomiya
+jp,numazu
+jp,odawara
+jp,okazaki
+jp,sagamihara
+jp,saitama
+jp,sakai
+jp,sasebo
+jp,shimonoseki
+jp,soka
+jp,suita
+jp,takarazuka
+jp,takasaki
+jp,takatsuki
+jp,tokorozawa
+jp,tokyo
+jp,toyohashi
+jp,toyonaka
+jp,toyota
+jp,yao
+jp,yokkaichi
+jp,yokosuka
+ke,eldoret
+ke,kisumu
+ke,mombasa
+ke,nairobi
+ke,nakuru
+kh,phnum penh
+kr,seoul
+kz,almaty
+kz,aqtobe
+kz,astana
+kz,oskemen
+kz,pavlodar
+kz,petropavl
+kz,qostanay
+kz,semey
+kz,shymkent
+kz,taraz
+lb,bayrut
+lb,beirut
+lk,colombo
+lr,monrovia
+lt,kaunas
+lt,vilnius
+lv,riga
+ly,benghazi
+ly,misratah
+ly,tarhunah
+ly,tripoli
+ma,agadir
+ma,asfi
+ma,casablanca
+ma,fez
+ma,kenitra
+ma,marrakesh
+ma,rabat
+ma,tangier
+ma,tetouan
+md,chisinau
+mg,antananarivo
+mg,toamasina
+mk,skopje
+ml,bamako
+mm,bago
+mm,mandalay
+mm,mawlamyine
+mm,pathein
+mm,rangoon
+mn,ulaanbaatar
+mr,nouakchott
+mw,blantyre
+mw,lilongwe
+mx,acapulco
+mx,aguascalientes
+mx,apodaca
+mx,campeche
+mx,cancun
+mx,celaya
+mx,chihuahua
+mx,chimalhuacan
+mx,coacalco
+mx,coatzacoalcos
+mx,cuautitlan izcalli
+mx,cuernavaca
+mx,culiacan
+mx,durango
+mx,ecatepec
+mx,ensenada
+mx,general escobedo
+mx,gomez palacio
+mx,guadalajara
+mx,guadalupe
+mx,hermosillo
+mx,irapuato
+mx,ixtapaluca
+mx,juarez
+mx,leon
+mx,lopez mateos
+mx,los mochis
+mx,los reyes
+mx,matamoros
+mx,mazatlan
+mx,merida
+mx,mexicali
+mx,mexico
+mx,monterrey
+mx,morelia
+mx,naucalpan
+mx,nezahualcoyotl
+mx,nicolas romero
+mx,nuevo laredo
+mx,oaxaca
+mx,obregon
+mx,pachuca
+mx,puebla
+mx,queretaro
+mx,reynosa
+mx,saltillo
+mx,san luis potosi
+mx,san nicolas de los garza
+mx,santa catarina
+mx,tampico
+mx,tampico
+mx,tehuacan
+mx,tepic
+mx,tijuana
+mx,tlalnepantla
+mx,tlaquepaque
+mx,toluca
+mx,tonala
+mx,torreon
+mx,tuxtla gutierrez
+mx,uruapan
+mx,veracruz
+mx,villahermosa
+mx,xalapa
+mx,xico
+mx,zapopan
+my,alor setar
+my,bukit mertajam
+my,ipoh
+my,johor bahru
+my,klang
+my,kota bahru
+my,kota kinabalu
+my,kuala lumpur
+my,kuala terengganu
+my,kuantan
+my,kuching
+my,miri
+my,petaling jaya
+my,sandakan
+my,seremban
+my,shah alam
+my,sungai petani
+my,taiping
+my,tawau
+mz,beira
+mz,chimoio
+mz,maputo
+mz,matola
+mz,nacala
+mz,nampula
+na,windhoek
+ne,niamey
+ne,niamey
+ng,aba
+ng,abeokuta
+ng,akure
+ng,bauchi
+ng,benin
+ng,calabar
+ng,damaturu
+ng,ede
+ng,enugu
+ng,gombe
+ng,gusau
+ng,ibadan
+ng,ife
+ng,ikire
+ng,ikorodu
+ng,ikot ekpene
+ng,ilesha
+ng,ilorin
+ng,iseyin
+ng,iwo
+ng,jimeta
+ng,jos
+ng,kaduna
+ng,kano
+ng,katsina
+ng,lagos
+ng,maiduguri
+ng,makurdi
+ng,minna
+ng,mubi
+ng,ogbomosho
+ng,ondo
+ng,onitsha
+ng,oshogbo
+ng,owerri
+ng,owo
+ng,oyo
+ng,port harcourt
+ng,shagamu
+ng,sokoto
+ng,ugep
+ng,umuahia
+ng,warri
+ng,zaria
+ni,managua
+nl,amsterdam
+nl,eindhoven
+nl,rotterdam
+nl,the hague
+nl,tilburg
+nl,utrecht
+no,bergen
+no,oslo
+np,kathmandu
+nz,auckland
+nz,christchurch
+nz,north shore
+pa,panama
+pa,san miguelito
+pe,arequipa
+pe,chiclayo
+pe,chimbote
+pe,cusco
+pe,huancayo
+pe,ica
+pe,iquitos
+pe,juliaca
+pe,lima
+pe,piura
+pe,pucallpa
+pe,tacna
+pe,trujillo
+pg,port moresby
+ph,angeles
+ph,antipolo
+ph,bacolod
+ph,bacoor
+ph,baguio
+ph,batangas
+ph,binangonan
+ph,butuan
+ph,cabanatuan
+ph,cagayan de oro
+ph,cainta
+ph,calamba
+ph,cebu
+ph,dadiangas
+ph,dasmarinas
+ph,davao
+ph,iligan
+ph,iloilo
+ph,lapu-lapu
+ph,lipa
+ph,lucena
+ph,makati
+ph,mandaue
+ph,manila
+ph,olongapo
+ph,san fernando
+ph,san pablo
+ph,san pedro
+ph,santa rosa
+ph,taytay
+ph,zamboanga
+pk,bahawalpur
+pk,chiniot
+pk,dera ghazi khan
+pk,faisalabad
+pk,gujranwala
+pk,gujrat
+pk,hyderabad
+pk,islamabad
+pk,jhang
+pk,karachi
+pk,kasur
+pk,lahore
+pk,larkana
+pk,mardan
+pk,mingaora
+pk,mirpur khas
+pk,multan
+pk,nawabshah
+pk,okara
+pk,peshawar
+pk,quetta
+pk,rawalpindi
+pk,sahiwal
+pk,sargodha
+pk,shekhupura
+pk,sialkot
+pk,sukkur
+pk,wah
+pl,bialystok
+pl,bydgoszcz
+pl,cracow
+pl,czestochowa
+pl,gdansk
+pl,gdynia
+pl,katowice
+pl,kielce
+pl,lublin
+pl,poznan
+pl,radom
+pl,sosnowiec
+pl,szczecin
+pl,torun
+pl,warsaw
+pl,wroclaw
+pt,lisbon
+pt,porto
+py,asuncion
+py,luque
+py,san lorenzo
+qa,doha
+ro,braila
+ro,brasov
+ro,bucharest
+ro,cluj-napoca
+ro,constanta
+ro,craiova
+ro,galati
+ro,iasi
+ro,oradea
+ro,ploiesti
+ro,timisoara
+rs,belgrade
+rs,pristina
+ru,angarsk
+ru,arkhangelsk
+ru,astrakhan
+ru,balakovo
+ru,barnaul
+ru,belgorod
+ru,biysk
+ru,blagoveshchensk
+ru,bratsk
+ru,bryansk
+ru,cheboksary
+ru,chelyabinsk
+ru,cherepovets
+ru,chita
+ru,dzerzhinsk
+ru,irkutsk
+ru,ivanovo
+ru,izhevsk
+ru,kaliningrad
+ru,kaluga
+ru,kazan
+ru,kemerovo
+ru,khabarovsk
+ru,kirov
+ru,komsomolsk-na-amure
+ru,kostroma
+ru,krasnodar
+ru,krasnoyarsk
+ru,kurgan
+ru,kursk
+ru,lipetsk
+ru,magnitogorsk
+ru,makhachkala
+ru,moscow
+ru,murmansk
+ru,nalchik
+ru,nizhnekamsk
+ru,nizhnevartovsk
+ru,nizhniy novgorod
+ru,nizhniy tagil
+ru,novokuznetsk
+ru,novorossiysk
+ru,novosibirsk
+ru,omsk
+ru,orel
+ru,orsk
+ru,penza
+ru,perm
+ru,petrozavodsk
+ru,prokopyevsk
+ru,pskov
+ru,rostov-na-donu
+ru,ryazan
+ru,rybinsk
+ru,saint petersburg
+ru,samara
+ru,saransk
+ru,saratov
+ru,shakhty
+ru,smolensk
+ru,sochi
+ru,staryy oskol
+ru,stavropol
+ru,sterlitamak
+ru,surgut
+ru,syktyvkar
+ru,taganrog
+ru,tambov
+ru,tolyatti
+ru,tomsk
+ru,tula
+ru,tver
+ru,tyumen
+ru,ufa
+ru,ulan-ude
+ru,ulyanovsk
+ru,velikiy novgorod
+ru,vladikavkaz
+ru,vladimir
+ru,vladivostok
+ru,volgograd
+ru,vologda
+ru,volzhskiy
+ru,voronezh
+ru,yaroslavl
+ru,yekaterinburg
+ru,zelenograd
+rw,kigali
+sa,buraydah
+sa,jiddah
+sa,mecca
+sa,riyadh
+sa,tabuk
+sd,kassala
+sd,khartoum
+sd,kusti
+sd,umm durman
+sd,wad madani
+se,goteborg
+se,malmo
+se,stockholm
+sg,singapore
+si,ljubljana
+sk,bratislava
+sk,kosice
+sl,freetown
+sn,dakar
+sn,kaolack
+sn,thies
+sn,ziguinchor
+so,berbera
+so,hargeysa
+so,kismayo
+so,mogadishu
+sr,paramaribo
+sv,san salvador
+sv,soyapango
+sy,aleppo
+sy,damascus
+th,bangkok
+th,chiang mai
+th,chon buri
+th,nakhon ratchasima
+th,nonthaburi
+th,samut prakan
+th,udon thani
+tj,dushanbe
+tm,asgabat
+tm,turkmenabat
+tn,aryanah
+tn,safaqis
+tn,tunis
+tr,adana
+tr,ankara
+tr,antalya
+tr,batman
+tr,bursa
+tr,corlu
+tr,denizli
+tr,erzurum
+tr,esenyurt
+tr,eskisehir
+tr,gaziantep
+tr,gebze
+tr,istanbul
+tr,izmir
+tr,kahramanmaras
+tr,kayseri
+tr,konya
+tr,malatya
+tr,manisa
+tr,mersin
+tr,osmaniye
+tr,samsun
+tr,sivas
+tr,tarsus
+tr,trabzon
+tr,urfa
+tr,van
+tw,chungho
+tw,fengshan
+tw,hsichih
+tw,hsinchu
+tw,hsintien
+tw,kaohsiung
+tw,kaohsiung
+tw,keelung
+tw,luchou
+tw,panchiao
+tw,pingchen
+tw,pingtung
+tw,sanchung
+tw,taichung
+tw,tainan
+tw,taipei
+tw,taoyuan
+tw,tucheng
+tw,yungho
+tw,yungkang
+tz,arusha
+tz,dar es salaam
+tz,mbeya
+tz,morogoro
+tz,mwanza
+tz,tanga
+tz,zanzibar
+ua,cherkasy
+ua,chernihiv
+ua,chernivtsi
+ua,horlivka
+ua,kherson
+ua,kiev
+ua,kirovohrad
+ua,kremenchuk
+ua,kryvyy rih
+ua,lvov
+ua,makiyivka
+ua,odesa
+ua,poltava
+ua,rivne
+ua,sumy
+ua,vinnitsa
+ua,vinnytsya
+ua,zaporizhzhya
+ua,zhytomyr
+ug,kampala
+us,birmingham
+us,anchorage
+us,chandler
+us,glendale
+us,mesa
+us,phoenix
+us,scottsdale
+us,tucson
+us,anaheim
+us,bakersfield
+us,chula vista
+us,fremont
+us,fresno
+us,glendale
+us,long beach
+us,los angeles
+us,modesto
+us,oakland
+us,riverside
+us,sacramento
+us,san bernardino
+us,san diego
+us,san francisco
+us,san jose
+us,santa ana
+us,stockton
+us,aurora
+us,colorado springs
+us,denver
+us,washington
+us,hialeah
+us,jacksonville
+us,miami
+us,orlando
+us,saint petersburg
+us,tampa
+us,atlanta
+us,honolulu
+us,chicago
+us,fort wayne
+us,indianapolis
+us,kansas city
+us,wichita
+us,lexington-fayette
+us,louisville
+us,baton rouge
+us,new orleans
+us,baltimore
+us,boston
+us,detroit
+us,minneapolis
+us,saint paul
+us,kansas city
+us,saint louis
+us,lincoln
+us,omaha
+us,henderson
+us,las vegas
+us,paradise
+us,reno
+us,jersey city
+us,newark
+us,albuquerque
+us,buffalo
+us,new york
+us,rochester
+us,charlotte
+us,durham
+us,greensboro
+us,raleigh
+us,akron
+us,cincinnati
+us,cleveland
+us,columbus
+us,toledo
+us,oklahoma city
+us,tulsa
+us,portland
+us,philadelphia
+us,pittsburgh
+us,san juan
+us,memphis
+us,nashville
+us,arlington
+us,austin
+us,corpus christi
+us,dallas
+us,el paso
+us,fort worth
+us,garland
+us,houston
+us,laredo
+us,lubbock
+us,plano
+us,san antonio
+us,chesapeake
+us,norfolk
+us,virginia beach
+us,seattle
+us,madison
+us,milwaukee
+uy,montevideo
+uz,andijon
+uz,namangan
+uz,nukus
+uz,samarkand
+uz,tashkent
+ve,barcelona
+ve,barinas
+ve,barquisimeto
+ve,baruta
+ve,cabimas
+ve,caracas
+ve,ciudad bolivar
+ve,ciudad guayana
+ve,cumana
+ve,maracaibo
+ve,maracay
+ve,maturin
+ve,petare
+ve,san cristobal
+ve,santa teresa
+ve,turmero
+ve,valencia
+vn,bien hoa
+vn,can tho
+vn,da nang
+vn,hai phong
+vn,hanoi
+vn,ha noi
+vn,ho chi minh city
+vn,hue
+vn,nha trang
+vn,qui nhon
+vn,rach gia
+vn,vung tau
+ye,aden
+ye,ibb
+za,alberton
+za,benoni
+za,bloemfontein
+za,boksburg
+za,botshabelo
+za,brakpan
+za,cape town
+za,durban
+za,east london
+za,johannesburg
+za,krugersdorp
+za,newcastle
+za,pietermaritzburg
+za,port elizabeth
+za,pretoria
+za,richards bay
+za,soweto
+za,tembisa
+za,uitenhage
+za,vanderbijlpark
+za,vereeniging
+za,verwoerdburg
+za,welkom
+za,witbank
+zm,kitwe
+zm,lusaka
+zm,ndola
+zw,bulawayo
+zw,chitungwiza
+zw,gweru
+zw,harare
+zw,mutare
